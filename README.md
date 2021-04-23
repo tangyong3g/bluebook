@@ -1,2 +1,2 @@
 # bluebook
-bluebook C++ 
+bluebook C++ Project
